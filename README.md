@@ -9,7 +9,7 @@ titanic-analysis/
 ├── Data/
 │   └── train_part3.csv　　# Raw House Prices dataset
 ├── Src/
-│   └── Lesley L_House Prices analysis.ipynb　　# Jupyter Notebook containing the analysis code
+│   └── Lesley L_House Prices Analysis.ipynb　　# Jupyter Notebook containing the analysis code
 ├── Docs/
 │   └── Lesley L_House Prices Analysis Final Report.pdf　　# Final one-page PDF report
 ├── Results/
